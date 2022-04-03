@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  rtdb:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2022-04-03T02:39:22.479207Z"
+    description: A Helm chart for Kubernetes
+    digest: 3be6884bf869b2dc93d2a2e08efc114e2de06d86e25b4058795e1a22a299ce99
+    name: rtdb
+    urls:
+    - https://chicagozer.github.io/helm-chart/rtdb-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-04-03T02:39:22.478283Z"
