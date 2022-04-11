@@ -3,7 +3,17 @@ entries:
   hellonode:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-04-10T16:55:02.647483Z"
+    created: "2022-04-11T13:36:07.605817Z"
+    description: A Helm chart for Kubernetes
+    digest: d55fe7a49ede2e604f08c51f0f39fecf16d914b959065c3a73d3952fe53719b8
+    name: hellonode
+    type: application
+    urls:
+    - hellonode-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-04-11T13:36:07.605015Z"
     description: A Helm chart for Kubernetes
     digest: 331d357a0cd9a68f9b6736cfe11e22e36a0eee861a3ea642dab82f1bb91f0506
     name: hellonode
@@ -13,7 +23,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-04-10T16:55:02.646773Z"
+    created: "2022-04-11T13:36:07.603824Z"
     description: A Helm chart for Kubernetes
     digest: 1258de6ed1e8ae6afb9aa16b09c52ac6bb2f413423dbbef8016bd70926d98c42
     name: hellonode
@@ -24,7 +34,7 @@ entries:
   helloworld:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-04-10T16:55:02.648985Z"
+    created: "2022-04-11T13:36:07.60862Z"
     description: A Helm chart for Kubernetes
     digest: 2b7f44a715bffd8938517eb6b829f31034f847df2d4f61a1419184a9280f03ed
     name: helloworld
@@ -34,7 +44,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-04-10T16:55:02.64821Z"
+    created: "2022-04-11T13:36:07.607309Z"
     description: A Helm chart for Kubernetes
     digest: c4d91ab4a876f89874c5c05078b6353e11531bd3e6d210497e4a9a0da8b64cd0
     name: helloworld
@@ -45,11 +55,11 @@ entries:
   rtdb:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2022-04-10T16:55:02.649801Z"
+    created: "2022-04-11T13:36:07.610324Z"
     description: A Helm chart for Kubernetes
     digest: 3be6884bf869b2dc93d2a2e08efc114e2de06d86e25b4058795e1a22a299ce99
     name: rtdb
     urls:
     - rtdb-0.1.0.tgz
     version: 0.1.0
-generated: "2022-04-10T16:55:02.645921Z"
+generated: "2022-04-11T13:36:07.602266Z"
